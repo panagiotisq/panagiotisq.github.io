@@ -23,17 +23,17 @@ Highly motivated Electrical and Computer Engineering student at the University o
 
 ## Education
 
-**Master's thesis: TU Graz**, Graz, Austria (02/2026 – current)
+**Master's thesis: TU Graz**, Graz, Austria (02/2026 – current)<br>
 *Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps*, supervised by Prof. Friedrich Fraundorfer. The work led to a paper submitted to ICRA 2027.
 
-**MEng in Electrical and Computer Engineering, University of Patras**, Patras, Greece (09/2021 – current)
+**MEng in Electrical and Computer Engineering, University of Patras**, Patras, Greece (09/2021 – current)<br>
 GPA 8.49/10. Specialization: 3D computer vision and geometry; robotics and control. Selected courses include Computational Geometry, 3D Computer Vision, SLAM and State Estimation, Reinforcement Learning, Optimal Control, Machine Learning, Computer Graphics and Robotic Systems I, II.
 
 **High School Diploma**, 1st Lyceum of Markopoulo (09/2018 – 06/2021), final grade 19.4/20.
 
 ## Work experience
 
-**Research Assistant**, VVR (Visualization and Virtual Reality) Group, University of Patras (03/2025 – current)
+**Research Assistant**, VVR (Visualization and Virtual Reality) Group, University of Patras (03/2025 – current)<br>
 Working on the three-year EU-funded DIDYMOS-XR project in 3D computational geometry and computer vision, including [pothole and bump detection](https://github.com/panagiotisq/pothole-detection) and [change detection](https://github.com/panagiotisq/change-detection) in 2D and 3D point clouds. Also working on biomedical computer science projects in collaboration with Prof. Athanasios Lourbopoulos. Built a [stroke analysis tool](https://github.com/panagiotisq/stroke-analyst-2) using U-Net and SAM, presented at the ESOC 2026 (European Stroke Organisation Conference), and a nationwide emergency-response accessibility model using OSRM routing and OpenStreetMap data.
 
 ## Projects
