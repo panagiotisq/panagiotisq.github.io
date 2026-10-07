@@ -3,11 +3,18 @@ layout: default
 title: Panagiotis Kiousis
 ---
 
-<img src="assets/photo.png" alt="Panagiotis Kiousis" width="200" style="float:right; margin: 0 0 1em 1.5em; border-radius: 50%;">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-# Panagiotis Kiousis
-
-Electrical and Computer Engineering student at the University of Patras, with a master's thesis at TU Graz (Institute of Visual Computing).
+<div style="text-align:center;">
+  <img src="assets/photo.png" alt="Panagiotis Kiousis" width="200" style="border-radius:50%;">
+  <h1 style="margin-bottom:0.2em;">Panagiotis Kiousis</h1>
+  <p style="margin-top:0;">Electrical and Computer Engineering student at the University of Patras, with a master's thesis at TU Graz (Institute of Visual Computing).</p>
+  <p>
+    <a href="https://www.linkedin.com/in/panagiotis-kiousis-135558264/" title="LinkedIn" style="margin:0 0.6em; font-size:1.8em; color:#0A66C2;"><i class="fa-brands fa-linkedin"></i></a>
+    <a href="assets/cv.pdf" title="CV (PDF)" style="margin:0 0.6em; font-size:1.8em; color:#B23A2E;"><i class="fa-solid fa-file-pdf"></i></a>
+    <a href="https://github.com/panagiotisq" title="GitHub" style="margin:0 0.6em; font-size:1.8em; color:#24292f;"><i class="fa-brands fa-github"></i></a>
+  </p>
+</div>
 
 ## About me
 
