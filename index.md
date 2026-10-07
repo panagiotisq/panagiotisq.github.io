@@ -18,12 +18,7 @@ description: Electrical and Computer Engineering, University of Patras; master's
 
 ## About me
 
-Highly motivated Electrical and Computer Engineering student at the University of Patras. Passionate about innovation and research. Interested in hands-on experience across:
-
-- Computer vision (especially 3D vision), machine learning, computer graphics, robotics and reinforcement learning
-- 3D computational geometry
-
-I also like combinatorics and electromagnetic fields.
+Highly motivated Electrical and Computer Engineering student at the University of Patras. Passionate about innovation and research. Interested in hands-on experience across computer vision (especially 3D vision), machine learning, computer graphics, robotics, reinforcement learning and 3D computational geometry. I also like combinatorics and electromagnetic fields.
 
 ## Education
 
@@ -64,8 +59,3 @@ Working on the three-year EU-funded DIDYMOS-XR project in 3D computational geome
 **Languages:** Greek (mother tongue), English (C2), German (A1).
 
 **Interests:** guitar, mountain biking, hiking, table tennis, football, travelling, photography.
-
-## Links
-
-- [GitHub](https://github.com/panagiotisq)
-- [LinkedIn](https://www.linkedin.com/in/panagiotis-kiousis-135558264/)
