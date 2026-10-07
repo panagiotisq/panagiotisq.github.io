@@ -23,7 +23,7 @@ Highly motivated Electrical and Computer Engineering student at the University o
 - Computer vision (especially 3D vision), machine learning, computer graphics, robotics and reinforcement learning
 - 3D computational geometry
 
-I also like combinatorics and electromagnetic fields. Only student in a class of 330 to receive the top grade.
+I also like combinatorics and electromagnetic fields.
 
 ## Education
 
@@ -49,7 +49,7 @@ Working on the three-year EU-funded DIDYMOS-XR project in 3D computational geome
 
 ## Honours and awards
 
-- **Best Student Innovation Challenge award, IEEE Worldhaptics 2025**: our project on vibrotactile emotional communication in shared visuo-haptic XR environments was a finalist and won the top award.
+- **Best Student Innovation Challenge winner, IEEE Worldhaptics 2025**: our project on vibrotactile emotional communication in shared visuo-haptic XR environments was a finalist and won the top award.
 - **3rd prize**, Probabilities and Statistics Contest, Hellenic Statistical Authority (2021)
 - **2nd phase**, Greek Mathematics Competition, Hellenic Mathematical Society (2019, 2020, 2021)
 - **Finalist (16th position)**, Greek Physics Competition, EEΦ (2019); finalist 2020, 2021
