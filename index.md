@@ -34,7 +34,8 @@ GPA 8.49/10. Specialization: 3D computer vision and geometry; robotics and contr
 ## Work experience
 
 **Research Assistant**, VVR (Visualization and Virtual Reality) Group, University of Patras (03/2025 – current)<br>
-Working on the three-year EU-funded DIDYMOS-XR project in 3D computational geometry and computer vision, including [pothole and bump detection](https://github.com/panagiotisq/pothole-detection) and [change detection](https://github.com/panagiotisq/change-detection) in 2D and 3D point clouds. Also working on biomedical computer science projects in collaboration with Prof. Athanasios Lourbopoulos. Built a [stroke analysis tool](https://github.com/panagiotisq/stroke-analyst-2) using U-Net and SAM, presented at the ESOC 2026 (European Stroke Organisation Conference), and a nationwide emergency-response accessibility model using OSRM routing and OpenStreetMap data.
+Working on the three-year EU-funded DIDYMOS-XR project in 3D computational geometry and computer vision, including [pothole and bump detection](https://github.com/panagiotisq/pothole-detection) and [change detection](https://github.com/panagiotisq/change-detection) in 2D and 3D point clouds.<br>
+Also working on biomedical computer science projects in collaboration with Prof. Athanasios Lourbopoulos. Built a [stroke analysis tool](https://github.com/panagiotisq/stroke-analyst-2) using U-Net and SAM, presented at the ESOC 2026 (European Stroke Organisation Conference), and a nationwide emergency-response accessibility model using OSRM routing and OpenStreetMap data.
 
 ## Projects
 
