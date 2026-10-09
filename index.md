@@ -24,7 +24,7 @@ Highly motivated Electrical and Computer Engineering student at the University o
 ## Education
 
 **Master's thesis: TU Graz**, Graz, Austria (02/2026 – current)<br>
-*Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps*, supervised by Prof. Friedrich Fraundorfer. The work led to a paper submitted to ICRA 2027, available on [arXiv](https://arxiv.org/abs/2610.11967).
+*Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps*, supervised by Prof. Friedrich Fraundorfer. The work led to a paper submitted to ICRA 2027, available on [arXiv](https://arxiv.org/abs/2610.11967). Thesis archived in the University of Patras Institutional Repository ["Nemertes"](https://hdl.handle.net/10889/32879).
 
 **MEng in Electrical and Computer Engineering, University of Patras**, Patras, Greece (09/2021 – current)<br>
 GPA 8.49/10. Specialization: 3D computer vision and geometry; robotics and control. Selected courses include Computational Geometry, 3D Computer Vision, SLAM and State Estimation, Reinforcement Learning, Optimal Control, Machine Learning, Computer Graphics and Robotic Systems I, II.
