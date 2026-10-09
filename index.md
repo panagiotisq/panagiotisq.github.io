@@ -19,12 +19,12 @@ description: Electrical and Computer Engineering, University of Patras; master's
 
 ## About me
 
-Highly motivated Electrical and Computer Engineering student at the University of Patras. Passionate about innovation and research. Currently I am at TU Graz, working in the Institute of Visual Computing (IVC) in the lab of Prof. Friedrich Fraundorfer. My interests span computer vision (especially 3D vision), machine learning, computer graphics, robotics, reinforcement learning and 3D computational geometry. I also like combinatorics and electromagnetic fields.
+Highly motivated Electrical and Computer Engineering student at the University of Patras. Passionate about innovation and research. Currently I am at TU Graz, working in the [Institute of Visual Computing (IVC)](https://ivc.tugraz.at/) in the lab of [Prof. Friedrich Fraundorfer](https://scholar.google.com/citations?user=M0boL5kAAAAJ&hl=en). My interests span computer vision (especially 3D vision), machine learning, computer graphics, robotics, reinforcement learning and 3D computational geometry. I also like combinatorics and electromagnetic fields.
 
 ## Education
 
 **Master's thesis: TU Graz**, Graz, Austria (02/2026 – current)<br>
-*Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps*, supervised by Prof. Friedrich Fraundorfer.<br>
+*Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps*, supervised by [Prof. Friedrich Fraundorfer](https://scholar.google.com/citations?user=M0boL5kAAAAJ&hl=en).<br>
 This work led to a paper submitted to ICRA 2027, available on arXiv: [arxiv.org/abs/2610.11967](https://arxiv.org/abs/2610.11967).<br>
 Thesis: [hdl.handle.net/10889/32879](https://hdl.handle.net/10889/32879)
 
@@ -35,9 +35,9 @@ GPA 8.49/10. Specialization: 3D computer vision and geometry; robotics and contr
 
 ## Work experience
 
-**Research Assistant**, VVR (Visualization and Virtual Reality) Group, University of Patras (03/2025 – current)<br>
-Working on the three-year EU-funded DIDYMOS-XR project in 3D computational geometry and computer vision, including [pothole and bump detection](https://github.com/panagiotisq/pothole-detection) and [change detection](https://github.com/panagiotisq/change-detection) in 2D and 3D point clouds.<br>
-Also working on biomedical computer science projects in collaboration with Prof. Athanasios Lourbopoulos. Built a [stroke analysis tool](https://github.com/panagiotisq/stroke-analyst-2) using U-Net and SAM, presented at the ESOC 2026 (European Stroke Organisation Conference), and a nationwide emergency-response accessibility model using OSRM routing and OpenStreetMap data.
+**Research Assistant**, [VVR (Visualization and Virtual Reality) Group](https://vvr.ece.upatras.gr/), University of Patras (03/2025 – current)<br>
+Working under the supervision of [Prof. Konstantinos Moustakas](https://scholar.google.com/citations?user=E361geAAAAAJ&hl=en) on the three-year EU-funded DIDYMOS-XR project in 3D computational geometry and computer vision, including [pothole and bump detection](https://github.com/panagiotisq/pothole-detection) and [change detection](https://github.com/panagiotisq/change-detection) in 2D and 3D point clouds.<br>
+Also working on biomedical computer science projects in collaboration with [Prof. Athanasios Lourbopoulos](https://scholar.google.com/citations?user=ZoNJ-NEAAAAJ&hl=en). Built a [stroke analysis tool](https://github.com/panagiotisq/stroke-analyst-2) using U-Net and SAM, presented at the ESOC 2026 (European Stroke Organisation Conference), and a nationwide emergency-response accessibility model using OSRM routing and OpenStreetMap data.
 
 ## Projects
 
