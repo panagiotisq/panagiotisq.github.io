@@ -35,6 +35,9 @@ GPA 8.49/10. Specialization: 3D computer vision and geometry; robotics and contr
 
 ## Work experience
 
+**Research Assistant**, [Institute of Visual Computing (IVC)](https://ivc.tugraz.at/), TU Graz (01/09/2026 – current)<br>
+Working under the supervision of [Prof. Friedrich Fraundorfer](https://scholar.google.com/citations?user=M0boL5kAAAAJ&hl=en) on localization and reconstruction with event cameras, as well as real-time deployment in the drone space (ROS2).
+
 **Research Assistant**, [VVR (Visualization and Virtual Reality) Group](https://vvr.ece.upatras.gr/), University of Patras (03/2025 – current)<br>
 Working under the supervision of [Prof. Konstantinos Moustakas](https://scholar.google.com/citations?user=E361geAAAAAJ&hl=en) on the three-year EU-funded DIDYMOS-XR project in 3D computational geometry and computer vision, including [pothole and bump detection](https://github.com/panagiotisq/pothole-detection) and [change detection](https://github.com/panagiotisq/change-detection) in 2D and 3D point clouds.<br>
 Also working on biomedical computer science projects in collaboration with [Prof. Athanasios Lourbopoulos](https://scholar.google.com/citations?user=ZoNJ-NEAAAAJ&hl=en). Built a [stroke analysis tool](https://github.com/panagiotisq/stroke-analyst-2) using U-Net and SAM, presented at the ESOC 2026 (European Stroke Organisation Conference), and a nationwide emergency-response accessibility model using OSRM routing and OpenStreetMap data.
@@ -42,8 +45,9 @@ Also working on biomedical computer science projects in collaboration with [Prof
 ## Projects
 
 - **Computer graphics and computational geometry:** [C++/OpenGL projects](https://github.com/panagiotisq/computer-graphics-semester-project) covering shader programming, rendering, lighting, geometry processing, Laplacian mesh processing and [3D terrain reconstruction](https://github.com/panagiotisq/3d-terrain-from-image) from images, and [Laplacian mesh processing](https://github.com/panagiotisq/laplacian-mesh-processing).
+- **Robotics:** forward and inverse kinematics, SE(3) trajectory design, a dynamics simulator, velocity and force/torque controllers, [visual-inertial odometry](https://github.com/panagiotisq/visual-inertial-odometry), and [domain randomization for sim-to-sim transfer in reinforcement learning](https://github.com/panagiotisq/Reinforcement-Learning-domain-randomization-sim2sim).
+- **Operations research / optimization:** end-to-end fulfilment-network optimization — probabilistic demand forecasting, two-stage stochastic capacity planning (Benders decomposition), and online order assignment for a synthetic Iberian e-commerce fulfilment network. [iberia-fulfilment-optimization](https://github.com/panagiotisq/iberia-fulfilment-optimization).
 - **2024 IEEE AP-S Student Design Contest:** member of the RadarG(r)eeks team, which designed a portable low-power radar system for visually impaired navigation. [Proposal](https://drive.google.com/file/d/18sjau8nJ0gN2QXGCEfydhYYUpKD83ZdV/view?usp=drive_link).
-- **Robotics:** forward and inverse kinematics, SE(3) trajectory design, a dynamics simulator, velocity and force/torque controllers, and [visual-inertial odometry](https://github.com/panagiotisq/visual-inertial-odometry).
 - **Electronics:** design of a speaker, a microphone and a wireless energy transmission system.
 
 ## Honours and awards
