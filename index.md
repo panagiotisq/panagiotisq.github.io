@@ -44,10 +44,10 @@ Also working on biomedical computer science projects in collaboration with [Prof
 
 ## Projects
 
+- **2024 IEEE AP-S Student Design Contest:** member of the RadarG(r)eeks team, which designed a portable low-power radar system for visually impaired navigation. [Proposal](https://drive.google.com/file/d/18sjau8nJ0gN2QXGCEfydhYYUpKD83ZdV/view?usp=drive_link).
 - **Computer graphics and computational geometry:** [C++/OpenGL projects](https://github.com/panagiotisq/computer-graphics-semester-project) covering shader programming, rendering, lighting, geometry processing, Laplacian mesh processing and [3D terrain reconstruction](https://github.com/panagiotisq/3d-terrain-from-image) from images, and [Laplacian mesh processing](https://github.com/panagiotisq/laplacian-mesh-processing).
 - **Robotics:** forward and inverse kinematics, SE(3) trajectory design, a dynamics simulator, velocity and force/torque controllers, [visual-inertial odometry](https://github.com/panagiotisq/visual-inertial-odometry), and [domain randomization for sim-to-sim transfer in reinforcement learning](https://github.com/panagiotisq/Reinforcement-Learning-domain-randomization-sim2sim).
 - **Operations research / optimization:** end-to-end fulfilment-network optimization — probabilistic demand forecasting, two-stage stochastic capacity planning (Benders decomposition), and online order assignment for a synthetic Iberian e-commerce fulfilment network. [iberia-fulfilment-optimization](https://github.com/panagiotisq/iberia-fulfilment-optimization).
-- **2024 IEEE AP-S Student Design Contest:** member of the RadarG(r)eeks team, which designed a portable low-power radar system for visually impaired navigation. [Proposal](https://drive.google.com/file/d/18sjau8nJ0gN2QXGCEfydhYYUpKD83ZdV/view?usp=drive_link).
 - **Electronics:** design of a speaker, a microphone and a wireless energy transmission system.
 
 ## Honours and awards
