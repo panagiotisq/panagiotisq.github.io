@@ -19,7 +19,7 @@ description: Electrical and Computer Engineering, University of Patras; master's
 
 ## About me
 
-Highly motivated Electrical and Computer Engineering student at the University of Patras. Passionate about innovation and research. Currently I am at TU Graz, working in the [Institute of Visual Computing (IVC)](https://ivc.tugraz.at/) in the lab of [Prof. Friedrich Fraundorfer](https://scholar.google.com/citations?user=M0boL5kAAAAJ&hl=en). My interests span computer vision (especially 3D vision), machine learning, computer graphics, robotics, reinforcement learning and 3D computational geometry. I also like combinatorics and electromagnetic fields.
+Highly motivated Electrical and Computer Engineering student at the University of Patras. Passionate about innovation and research. Currently I am at TU Graz, working in the [Institute of Visual Computing (IVC)](https://ivc.tugraz.at/) in the lab of [Prof. Friedrich Fraundorfer](https://scholar.google.com/citations?user=M0boL5kAAAAJ&hl=en). My interests span computer vision (especially 3D), machine learning, robotics, reinforcement learning, computational geometry, and human understanding. I also like combinatorics and electromagnetic fields.
 
 ## Education
 
