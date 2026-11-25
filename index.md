@@ -26,7 +26,7 @@ Highly motivated Electrical and Computer Engineering student at the University o
 **Master's thesis: TU Graz**, Graz, Austria (02/2026 – 09/2026)<br>
 *Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps*, supervised by [Prof. Friedrich Fraundorfer](https://scholar.google.com/citations?user=M0boL5kAAAAJ&hl=en).<br>
 This work led to a paper submitted to ICRA 2027, available on arXiv: [arxiv.org/abs/2610.11967](https://arxiv.org/abs/2610.11967).<br>
-Thesis: [hdl.handle.net/10889/32879](https://hdl.handle.net/10889/32879)
+Thesis: [hdl.handle.net/10889/32879](https://hdl.handle.net/10889/32879). Code: [CELL](https://github.com/panagiotisq/CELL).
 
 **MEng in Electrical and Computer Engineering, University of Patras**, Patras, Greece (09/2021 – current)<br>
 GPA 8.49/10. Specialization: 3D computer vision and geometry; robotics and control. Selected courses include Computational Geometry, 3D Computer Vision, SLAM and State Estimation, Reinforcement Learning, Optimal Control, Machine Learning, Computer Graphics and Robotic Systems I, II.
@@ -36,7 +36,7 @@ GPA 8.49/10. Specialization: 3D computer vision and geometry; robotics and contr
 ## Work experience
 
 **Research Assistant**, [Institute of Visual Computing (IVC)](https://ivc.tugraz.at/), TU Graz (01/09/2026 – current)<br>
-Working under the supervision of [Prof. Friedrich Fraundorfer](https://scholar.google.com/citations?user=M0boL5kAAAAJ&hl=en) on localization and reconstruction with event cameras, as well as real-time deployment in the drone space (ROS2).
+Working under the supervision of [Prof. Friedrich Fraundorfer](https://scholar.google.com/citations?user=M0boL5kAAAAJ&hl=en) on localization and reconstruction with event cameras, as well as real-time deployment in the drone space (ROS1), including a live demo on a real drone-space rig (event camera + OptiTrack mocap) and a purpose-built drone-space dataset: [cell-ros1-tugraz-dronespace](https://github.com/panagiotisq/cell-ros1-tugraz-dronespace).
 
 **Research Assistant**, [VVR (Visualization and Virtual Reality) Group](https://vvr.ece.upatras.gr/), University of Patras (03/2025 – current)<br>
 Working under the supervision of [Prof. Konstantinos Moustakas](https://scholar.google.com/citations?user=E361geAAAAAJ&hl=en) on the three-year EU-funded DIDYMOS-XR project in 3D computational geometry and computer vision, including [pothole and bump detection](https://github.com/panagiotisq/pothole-detection) and [change detection](https://github.com/panagiotisq/change-detection) in 2D and 3D point clouds.<br>
